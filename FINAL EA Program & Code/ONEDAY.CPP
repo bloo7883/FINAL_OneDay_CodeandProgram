@@ -169,6 +169,12 @@ int inputValid(int choice)
         cout << "Please, choose 1 or 2: " << endl;
         cin >> choice;
     }
+    //Test if input is smaller than 1
+    while (choice < 1)
+    {
+        cout << "Please, choose 1 or 2: " << endl;
+        cin >> choice;
+    }
     return choice;
 }
 
