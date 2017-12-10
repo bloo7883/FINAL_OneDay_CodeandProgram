@@ -161,7 +161,7 @@ You are told that you pulled a few strains on your left leg.
 As a result, your movements would be limited. After the police left, you decided to take a walk.
 *
 You give up thinking it is the best course of action. 
-The thief tells you that he does not want to hurt you. He just wants you to hand over the valuables you possess without any resistance. 
+The thief tells you that he does not want to hurt you. He just wants you to hand over the valuables you own without any resistance. 
 You hand over some valuables to satisfy the thief. 
 Once the thief gets what he wants, he thanks you. 
 As you are shocked and appalled, you ask him why is he thanking you.
@@ -169,7 +169,7 @@ He tells you his apologies are for stealing from you.
 He does not tell you the reason for his gratitude. 
 All he said is that he has no choice because he needs to steal all he can before something terrible happens. 
 You are unable to further investigate the thief as sirens can be heard. The police were on their way. 
-The thief quickly takes all of the valuables you gave him and runs through the back door. 
+The thief quickly takes all the valuables you gave him and runs through the back door. 
 Eventually, the police come in and begin asking questions to you. 
 You try to answer them as best as you can.
 
