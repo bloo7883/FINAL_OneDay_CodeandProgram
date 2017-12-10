@@ -407,7 +407,8 @@ void bestEnding(string playerName, int choice, string introNarrative[], string c
     }
     case 2: //choice [9] //ignore thief
     {
-        cout << "You turn down their invitation in an abrupt manner and start heading towards the door where you last saw the thief. \nLars follows behind and poses the question." << endl;
+        cout << "You turn down their invitation in an abrupt manner and start heading towards the door where you last saw the thief." << endl;
+        cout << "Lars follows behind and poses the question." << endl;
         cout << "Lars: What is the matter?" << endl;
         cout << "You: I saw the thief, Lars. He went through that door upfront after getting it to open." << endl;
         cout << "That is impossible " << playerName << ". " << "Why would the same thief show up at party?" << endl;
