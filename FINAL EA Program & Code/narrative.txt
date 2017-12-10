@@ -47,248 +47,245 @@ He sees you and points his gun directly at you.
 You quickly put your hands up, so you let him know that you are not a threat.
 *
 You feel as if you will only survive if you fight. 
-You grab two knives from the knive set and hold one tightly in each arm. 
-The thief tells you that he does not want to hurt you, he just wants you to hand over any valuables you possess without any resistance. 
-Unable to believe the thief you launch an attack before he gets any closer to you. 
-He successfully dodges and throws you against one of the walls. 
+You grab two knives from the knife set and hold one tightly in each arm. 
+The thief tells you that he does not want to hurt you. He just wants you to hand over any valuables you have without any resistance. 
+You can't believe the thief. You launch an attack before he gets any closer to you. 
+He successfully dodges and throws you against the wall. 
 You hit the wall hard and fall to the floor. 
 The thief quickly tries to pin you in the hopes of stopping your swings with the knives. 
-He is not fast enough however, you stab him with your free hand in one of his legs. 
-He screams in pain and drops to the floor. Unable to move or stand he possess no threat to you.
+He is not fast enough as you stab him in one of his legs. 
+He screams in pain and drops to the floor, which he is unable to move or stand. He is not a threat to you.
 
 Lars finally arrives and checks up on you. You tell him that everything is under control. 
 You both begin to decide what to do with the thief. 
-Before you are allowed to address the thief he pleads for something to wrap around his injury. 
-He also says he will leave in peace once he can stand. You both agree reluctantly. 
-The thief provides his apologies as well as his gratitude before disappearing. 
+Before you are allowed to address the thief, he pleads for something to wrap around his injury. 
+He says he will leave in peace once he can stand. You both agree reluctantly. 
+The thief apologizes to you and Lars before disappearing. 
 *
 You give up thinking it is the best course of action. 
-The thief tells you that he does not want to hurt you, he just wants you to hand over the valuables you possess without any resistance. 
-Once the thief gets what he wants he says thank you and sorry at the same time. 
-Shocked and appalled you ask him why is he saying thank you and sorry. 
-He tells you his apologies are for stealing from you. He does not tell you the reasoning behind his gratitude. 
-All he says is that he has no choice but to steal all he can before something terrible happens. 
-Upon preparing to take his leave he is confronted by Lars, who is pointing a gun at him. 
-You tell Lars to not shot and he tells you to not worry. Lars then demands the thief to leave all that he has stolen. The thief does so carefully. 
-After that, Lars tells the thief to get out and never come back and without haste he does so. 
-You take a deep breath before thanking Lars. 
-He tells you that it is no problem since he owes you a huge debt. 
+The thief tells you that he does not want to hurt you. He just wants you to hand over any valuables you have without any resistance. 
+Once the thief gets what he wants, he thanks you. 
+As you are shocked and appalled, you ask him why is he saying thank you and sorry. 
+He tells you his apologies are from him stealing your valuables. He does not tell you the reason for his gratitude. 
+He said that he has no choice because he needs to steal all he can before something terrible happens. 
+Upon preparing to take your valuables, the thief is confronted by Lars, who is pointing a gun at him. 
+You tell Lars to not shoot and he tells you to not worry. Lars then demands the thief to leave all valuables that he has stolen. The thief drops all the valuables. 
+After that, Lars tells the thief to get out and never come back. He starts to leave the house.
+You thank Lars for getting rid of the thief. 
+Now, he owes you a huge debt. 
 You tell him there is no need to feel that way. 
-Before Lars gets the chance to respond you invite him for a walk.. He of course agrees.
+Before Lars gets the chance to respond, you invite him for a walk. They start to walk.
 *
 You: That is what we are going to find out Lars. 
-Him being here as a complete coincidence is what is impossible. Get ready… 
+Lars in the house was a coincidence. Get readyâ€¦ 
 There is no knowing what will go down once we go through that door.
 
-Once you both enter through the door you begin looking for the thief. Unfortunately he is nowhere to find. 
+Once you both enter through the door, you begin looking for the thief. Unfortunately, he is nowhere to be found. 
 After a couple of minutes, you and Lars are surprised by two tall hooded figures. 
-One of them says that they must kill the other one and leave the one with the curse untouched. 
+One of them says that they must kill the boy and leave the cursed one untouched. 
 The hooded man says this while pointing at you. 
-Unable to understand you tell Lars to get ready. 
-However, from behind the thief appears from the cover of the shadows and strikes one of the hooded figures. The other hooded figure was knocked out by Lars while he was caught by surprise. 
-With both hooded figures unconscious you took this opportunity to ask the thief. 
+As you are unable to understand, you tell Lars to get ready. 
+From behind the thief, you see a shadowed figure striking one of the hooded figures. The other hooded figure was knocked out by Lars, while he was caught by surprise. 
+With both hooded figures unconscious, you took this opportunity to ask the thief. 
 You: Why are you here thief?
 
-Thief: We meet again... I cannot believe our paths have crossed a second time out of mere coincidence. I am here looking for something that is precious to me beyond anything else.
+Thief: We meet again. I cannot believe our paths have crossed a second time out of coincidence. I am here looking for something that is precious to me beyond anything else.
 
-You: But that still means you are here to steal away such thing right?
+You: That still means you are here to steal away such thing right?
 
-Thief: No you are mistaking... I am here for my daughter...
+Thief: No, you are mistaking. I am here for my daughter.
 I came to rescue her from the clutches of this forsaken cult.
 
-You: Your daughter? Then this two hooded figures are cult members?
+You: Your daughter? Are the two hooded figures part of the cult?
 
 Thief: Yes, this party is hosted by them. 
-By hosting such party they can move with more ease.
+By hosting it, they can move with more ease.
 
 You: Why did they take your daughter away?
 
 Thief: I deserted this cult not long ago... 
-I just could not stand the atrocities being committed so I left but they took my dear daughter as a consequence. 
-They told me that as long as I kept a stream of cash flowing in they would keep my daughter alive…
+I just could not stand the atrocities being committed, so I left. They took my dear daughter as a consequence. 
+They told me that as long as I kept a lot of cash flowing, they would keep my daughter alive.
 
-You: So you began stealing correct? That is why you broke into my house?
+You: So, you began stealing correct? Is that why you broke into my house?
 
-Thief: That is correct and once again I apologize… Now if you excuse me I have to look for my daughter.
+Thief: Right and once again I apologize. Now, if you excuse me I have to look for my daughter.
 
 You: Lars and I will help you! What is your name?
 
-Thief: My name is Will von Astrea and I know who you are...”<<endl;
-You: You do Mr. Astrea?”<<end;
+Thief: My name is Will von Astrea and I know who you are.â€<<endl;
+You: You do, Mr. Astrea?â€<<end;
 
-Mr. Astrea: Yes but that is a conversation for later. Let's move, more will show.
+Mr. Astrea: Yes, but that is a conversation for later. Let's move, more will show.
 
-You, Lars, and Will von Astrea begin your search deeper within the house. 
-Eventually you both find a small girl all tied up. Mr. Astrea hurries and unties her. 
-He has indeed found his daughter. As he checks up on her you can hear people getting closer. 
-With nowhere to run you begin to lose hope but Mr. Astrea shows you and Lars through a secret passage. You all successfully escape. 
-Once outside you recommend that the next destination should be your house. Lars and Mr. Astrea agree.
+You, Lars, and Will von Astrea begin the search within the house. 
+Eventually, they find a small girl tied up. Mr. Astrea hurries and unties her. 
+He has finally found his daughter. As he checks up on her, you can hear people getting closer. 
+With nowhere to run, you begin to lose hope. Mr. Astrea shows you and Lars through a secret passage. They successfully escaped. 
+Once they made it outside, you recommend that the next destination should be your house. Lars and Mr. Astrea agree.
 *
-You and Lars accept and the small group goes wild in excitement. 
-After a good ten minutes you see two hooded figures go through the same door. 
-Maybe the thief’s luck was about to run out but the thought quickly left your mind as your attention was directed to a toast being proposed. You could either:
+The small group goes wild with excitement. 
+After ten minutes, you see two hooded figures go through the same door. 
+Maybe the thiefâ€™s luck was about to run out. That thought quickly left your mind as your attention was directed to a toast being proposed. You could either:
 *
-The toast is splendid. You and Lars exchange stories with the small group until you find yourself in complete darkness. What just happened you ask yourself?
+The toast is splendid. You and Lars exchange stories with the small group until you found yourself in darkness. What just happened you ask yourself?
 *
-You put your drink down and make your way towards the door where you last saw the thief and the two hooded figure go through. 
-Once in you are confronted by the two hooded figure who seem to be looking for someone. 
-One of them says something about you being the one with the curse while pointing at you. 
-Unable to understand you get ready to defend yourself. 
-However, the thief appears from the cover of the shadows and strikes one of the hooded figures down. 
+You put your drink down and make your way towards the door. It's where you saw the thief and the two hooded figure go through. 
+Once in you are confronted by the two hooded figure, who is looking for someone. 
+One of them says that you have a curse. 
+You are unable to understand as you get ready to defend yourself. 
+The thief appears from the shadows and strikes one of the hooded figures down. 
 You use this chance to strike down the other hooded figure. 
-With both threats neutralized you use this opportunity to ask the thief.
-
-You: Why are you here thief?
-
-Thief: We meet again... I cannot believe our paths have crossed a second time out of mere coincidence. I am here looking for something that is precious to me beyond anything else.
-
-You: But that still means you are here to steal away such thing right?
-
-Thief: No you are mistaking... I am here for my daughter... I came to rescue her from the clutches of this forsaken cult.
-
-You: Your daughter? Then this two hooded figures are cult members?
-
-Thief: Yes, this party is hosted by them. By hosting such party they can move with more ease. Why did they take your daughter away? I deserted this cult not long ago... 
-I just could not stand the atrocities being committed so I left but they took my dear daughter as a consequence. They told me that as long as I kept a stream of cash flowing in they would keep my daughter alive…”
-
-You: So you began stealing correct? That is why you broke into my house?
-
-Thief: That is correct and once again I apologize... Now if you excuse me I have to look for my daughter.
-
-You: I will help you! What is your name?
-
-Thief: My name is Will von Astrea and I know who you are...
-
-You: You do Mr. Astrea?
-
-Mr. Astrea: Yes but that is a conversation for later. Let's move, more will show.
-
-You, Lars, and Will von Astrea begin your search deeper within the house. Eventually you both find a small girl all tied up. Mr. Astrea hurries and unties her. He has indeed found his daughter. As he checks up on her you can hear people getting closer. With nowhere to run you begin to lose hope but Mr. Astrea shows you and Lars through a secret passage. You all successfully escape. Once outside you recommend that the next destination should be your house. Lars and Mr. Astrea agree.
-*
-You feel as if you will only survive if you fight. 
-You grab two knives from the knive set and hold one tightly in each arm. 
-The thief tells you that he does not want to hurt you, he just wants you to hand over any valuables you possess without any resistance. 
-Unable to believe the thief you launch an attack before he gets any closer to you. 
-He successfully dodges and throws you against one of the walls. 
-You hit the wall hard and fall to the floor. 
-The thief quickly tries to pin you in the hopes of stopping your swings with the knives. 
-He is not fast enough however, you stab him with your free hand in one of his legs. 
-He screams in pain and drops to the floor. Unable to move or stand he possess no threat to you.
-
-The police arrive within two minutes. 
-They provide the thief with medical treatment and is then taken away into custody. 
-You are asked questions and inspected as well for any injuries. 
-You are told you pulled a few strains in your left leg. 
-As a result, your movements would be limited. After the police left you decided to take a walk to refresh yourself.
-*
-You give up thinking it is the best course of action. 
-The thief tells you that he does not want to hurt you, he just wants you to hand over the valuables you possess without any resistance. 
-You hand over some valuables to satisfy the thief. 
-Once the thief gets what he wants he says thank you and sorry at the same time. 
-Shocked and appalled you ask him why is he saying thank you and sorry. 
-He tells you his apologies are for stealing from you. 
-He does not tell you the reasoning behind his gratitude. 
-All he says is that he has no choice but to steal all he can before something terrible happens. 
-Unable to investigate the thief further sirens are heard. Police were on their way. 
-The thief quickly takes all of the valuables you gave him and runs through the back door. 
-Eventually the police come in and begin asking all sorts of questions. 
-You try to answer them as best as you can. 
-
-Once the interrogations were over and the police left you decided to take a walk. 
-Throughout this walk you began to think about your encounter with the thief. 
-It became evident to you that he was no ordinary thief. He was stealing out of desperation. 
-It was clear that he must have some serious problems but further thought into the matter does not interest you. Instead, you decided to take a walk for some fresh air.
-*
-You turn down their invitation in an abrupt manner and start heading towards the door where you last saw the thief. You know that you will need to be ready for whatever goes down after you go through that door. Once you go through the door you start looking for the thief but he is nowhere to be seen. After a couple of minutes you are surprised from behind by two hooded figures. One of them says that the one with the curse has been found while pointing at you. Unable to understand you get ready to fight for your life. However, from behind the thief appears from the cover of the shadows and strikes one of the hooded figures. You quickly strike the other hooded figure the moment he turns his back on you. Both hooded figures are now laying on the floor unconscious. You take this time to question the thief.
-
-You: Why are you here thief?
-
-We meet again... I cannot believe our paths have crossed a second time out of mere coincidence. I am here looking for something that is precious to me beyond anything else.
-
-But that still means you are here to steal away such thing right?
-
-Thief: No you are mistaking... I am here for my daughter... I came to rescue her from the clutches of this forsaken cult.
-
-You: Your daughter? Then this two hooded figures are cult members?
-
-Thief: Yes, this party is hosted by them. By hosting such party they can move with more ease.
+With both threats neutralized, you use this opportunity to ask the thief.
 
 You: Why did they take your daughter away?
 
 Thief: I deserted this cult not long ago... 
-I just could not stand the atrocities being committed so I left but they took my dear daughter as a consequence. 
-They told me that as long as I kept a stream of cash flowing in they would keep my daughter alive...
 
-You: So you began stealing correct? That is why you broke into my house?
+I just could not stand the atrocities being committed, so I left. They took my dear daughter as a consequence. 
 
-Thief: That is correct and once again I apologize... Now if you excuse me I have to look for my daughter.
+They told me that as long as I kept a lot of cash flowing, they would keep my daughter alive.
 
-You: I will help you! What is your name?
+You: Your daughter? Are the two hooded figures part of the cult?
 
-Thief: My name is Will von Astrea and I know who you are...
+Thief: Yes, this party is hosted by them. By hosting it, they can move with more ease.
 
-You: You do Mr. Astrea?
+You: Why did they take your daughter away? So, you began stealing correct? Is that why you broke into my house?
 
-Mr. Astrea: Yes but that is a conversation for later. Let's move, more will show.
+Thief: Right and once again I apologize. Now, if you excuse me I have to look for my daughter.
 
-You and Will von Astrea begin your search deeper within the house. 
-Eventually you both find a small girl all tied up. Mr. Astrea hurries and unties her. 
-He has indeed found his daughter. As he checks up on her you can hear people getting closer. 
-With nowhere to run you begin to lose hope but Mr. Astrea shows you through a secret passage. 
-You all successfully escape. 
-Once outside you recommend that the next destination should be your house. Mr. Astrea agrees.
+You: Lars and I will help you! What is your name?
+
+Thief: My name is Will von Astrea and I know who you are.
+
+You: You do, Mr. Astrea?
+
+Mr. Astrea: Yes, but that is a conversation for later. Let's move, more will show.
+
+You, Lars, and Will von Astrea begin the search within the house. Eventually, they find a small girl tied up. Mr. Astrea hurries and unties her. He has finally found his daughter. As he checks up on her, you can hear people getting closer. With nowhere to run, you begin to lose hope. Mr. Astrea shows you and Lars through a secret passage. They successfully escaped. Once they made it outside, you recommend that the next destination should be your house. Lars and Mr. Astrea agree.
 *
-You accept and the small group goes wild in excitement. 
-After a good ten minutes you see two hooded figures go through the same door. 
-Maybe the thief’s luck was about to run out but the thought quickly left your mind as your attention was directed to a toast being proposed. You could either:
+You feel as if you will only survive from fighting. 
+You grab two knives from the knife set and hold one tightly in each arm. 
+The thief tells you that he does not want to hurt you. He just wants you to hand over any valuables you have without any resistance. 
+You didn't believe the thief. You launch an attack before he gets any closer to you. 
+He successfully dodges and throws you against the wall. 
+You hit the wall hard and fall to the floor. 
+The thief quickly tries to pin you in the hopes of stopping your swings with the knives. 
+He is not fast enough to do it. You stab him with your free hand in his leg. 
+He screams in pain and drops to the floor. He is unable to move or stand, which he turns out to not be a threat to you.
+
+The police arrive within two minutes. 
+They provide the thief with medical treatment and take you away into custody. 
+You are asked questions and inspected for any injuries. 
+You are told that you pulled a few strains on your left leg. 
+As a result, your movements would be limited. After the police left, you decided to take a walk.
 *
-The toast is splendid. You exchange stories with the small group until you find yourself in complete darkness. What just happened you ask yourself?
+You give up thinking it is the best course of action. 
+The thief tells you that he does not want to hurt you. He just wants you to hand over the valuables you possess without any resistance. 
+You hand over some valuables to satisfy the thief. 
+Once the thief gets what he wants, he thanks you. 
+As you are shocked and appalled, you ask him why is he thanking you.
+He tells you his apologies are for stealing from you. 
+He does not tell you the reason for his gratitude. 
+All he said is that he has no choice because he needs to steal all he can before something terrible happens. 
+You are unable to further investigate the thief as sirens can be heard. The police were on their way. 
+The thief quickly takes all of the valuables you gave him and runs through the back door. 
+Eventually, the police come in and begin asking questions to you. 
+You try to answer them as best as you can.
+
+Once the police left, you decided to take a walk. 
+Throughout this walk, you began to think about your encounter with the thief. 
+It became evident to you that he was no ordinary thief. He was stealing out of desperation. 
+It was clear that he must have some serious problems, but it does not interest you. Instead, you decided to take a walk for some fresh air.
 *
-You put your drink down and make your way towards the door where you last saw the thief and the two hooded figure go through. 
-Once in you are confronted by the two hooded figure who seem to be looking for someone.
-One of them says something about you being the boy of the curse while pointing at you. 
-Unable to understand you get ready to defend yourself. 
-However, the thief appears from the cover of the shadows and strikes one of the hooded figures down. 
-You use this chance to strike down the other hooded figure. With both threats neutralized you use this opportunity to ask the thief.
+You turn down their invitation in an abrupt manner. You start to head towards the door where you last saw the thief. You know that you will need to be ready for whatever goes down after you go through that door. Once you go through the door, you start to look for the thief. He is nowhere to be seen. After a couple of minutes, you are surprised by two hooded figures. One of them says that the cursed one has been found while pointing at you. As you are unable to understand, you get ready to fight for your life. The thief appears from the shadows and strikes one of the hooded figures. You quickly strike the other hooded figure during the moment he turns his back on you. Both hooded figures are now unconsciously laying on the floor. You take this time to question the thief.
 
 You: Why are you here thief?
 
-Thief: We meet again... I cannot believe our paths have crossed a second time out of mere coincidence. I am here looking for something that is precious to me beyond anything else.
+Thief: We meet again. I cannot believe our paths have crossed a second time out of mere coincidence. I am looking for something that is precious to me beyond anything else.
 
-You: But that still means you are here to steal away such thing right?
+You: That still means you are here to steal away such thing, right?
 
-Thief: No you are mistaking... I am here for my daughter... I came to rescue her from the clutches of this forsaken cult.
+Thief: No, you are mistaking. I am here for my daughter. I came to rescue her from the clutches of this forsaken cult.
 
-You: Your daughter? Then this two hooded figures are cult members?
+You: Your daughter? Then these two hooded figures are cult members?
 
-Thief: Yes, this party is hosted by them. By hosting such party they can move with more ease.
+Thief: Yes, this party is hosted by them. By hosting it, they can move with more ease.
 
 You: Why did they take your daughter away?
 
 Thief: I deserted this cult not long ago...
-I just could not stand the atrocities being committed so I left but they took my dear daughter as a consequence. 
-They told me that as long as I kept a stream of cash flowing in they would keep my daughter alive...
+I just could not stand the atrocities being committed, so I left. They took my dear daughter as a consequence. 
+They told me that as long as I kept a lot of cash flowing in they would keep my daughter alive.
 
-You: So you began stealing correct? That is why you broke into my house?
+You: So, you began stealing correct? Is that why you broke into my house?
 
-Thief: That is correct and once again I apologize… Now if you excuse me I have to look for my daughter.
+Thief: Right and once again I apologize. Now if you excuse me, I have to look for my daughter.
+
+You: I will help you! What is your name?
+
+Thief: My name is Will von Astrea and I know who you are.
+
+You: You do, Mr. Astrea?
+
+Mr. Astrea: Yes, but that is a conversation for later. Let's move, more will show.
+
+You, Lars, and Will von Astrea begin the search within the house. 
+Eventually, they find a small girl tied up. Mr. Astrea hurries and unties her. 
+He has finally found his daughter. 
+As he checks up on her, you can hear people getting closer. 
+With nowhere to run, you begin to lose hope. Mr. Astrea shows you and Lars through a secret passage. 
+They successfully escaped. 
+Once they made it outside, you recommend that the next destination should be your house. Lars and Mr. Astrea agree.
+*
+The small group goes wild with excitement. 
+After ten minutes, you see two hooded figures go through the same door. 
+Maybe the thiefâ€™s luck was about to run out. That thought quickly left your mind as your attention was directed to a toast being proposed. You could either:
+*
+The toast is splendid. You and Lars exchange stories with the small group until you found yourself in darkness.  You ask yourself about what just happened?
+*
+You put your drink down and make your way towards the door. It is where you last saw the thief and the two hooded figure go through. 
+Once you are in, you are confronted by the two hooded figures who are looking for someone.
+One of them said that you are cursed while pointing at you. 
+As you are unable to understand, you get ready to defend yourself. 
+The thief appears from the shadows and strikes one of the hooded figures down. 
+You use this chance to strike down the other hooded figure. With both threats neutralized, you use this opportunity to ask the thief.
+
+You: Why are you here, thief?
+
+Thief: We meet again. I cannot believe our paths have crossed a second time out of mere coincidence. I am here looking for something that is precious to me beyond anything else.
+
+You: That still means you are here to steal away such thing, right?
+
+Thief: No, you are mistaking. I am here for my daughter. I came to rescue her from the clutches of this forsaken cult.
+
+You: Your daughter? Then these two hooded figures are cult members?
+
+Thief: Yes, this party is hosted by them. By hosting it, they can move with more ease.
+
+You: Why did they take your daughter away?
+
+Thief: I deserted this cult not long ago.
+I just could not stand the atrocities being committed, so I left. They took my dear daughter as a consequence. 
+They told me that as long as I kept a lot of cash flowing in they would keep my daughter alive...
+
+You: So, you began stealing correct? Is that why you broke into my house?
+
+Thief: Right and once again I apologize. Now if you excuse me, I have to look for my daughter.
 
 You: I will help you! What is your name?
 
 Thief: My name is Will von Astrea and I know who you are...
 
-You: You do Mr. Astrea?
+You: You do, Mr. Astrea?
 
-Mr. Astrea: Yes but that is a conversation for later. Let's move, more will show.
+Mr. Astrea: Yes, but that is a conversation for later. Let's move, more will show.
 
-You and Will von Astrea begin your search deeper within the house. 
-Eventually you both find a small girl all tied up. Mr. Astrea hurries and unties her. 
-He has indeed found his daughter. As he checks up on her you can hear people getting closer. 
-With nowhere to run you begin to lose hope but Mr. Astrea shows you through a secret passage. 
-You all successfully escape. Once outside you recommend that the next destination should be your house. Mr. Astrea agrees.
-
-
-
-
-
+You, Lars, and Will von Astrea begin the search within the house. 
+Eventually, they find a small girl tied up. Mr. Astrea hurries and unties her. 
+He has finally found his daughter. 
+As he checks up on her, you can hear people getting closer. 
+With nowhere to run, you begin to lose hope. Mr. Astrea shows you and Lars through a secret passage. 
+They successfully escaped. 
+Once they made it outside, you recommend that the next destination should be your house. Lars and Mr. Astrea agree.
 
