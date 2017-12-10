@@ -90,32 +90,21 @@ With both hooded figures unconscious, you took this opportunity to ask the thief
 You: Why are you here thief?
 
 Thief: We meet again. I cannot believe our paths have crossed a second time out of coincidence. I am here looking for something that is precious to me beyond anything else.
-
 You: That still means you are here to steal away such thing right?
-
 Thief: No, you are mistaking. I am here for my daughter.
 I came to rescue her from the clutches of this forsaken cult.
-
 You: Your daughter? Are the two hooded figures part of the cult?
-
 Thief: Yes, this party is hosted by them. 
 By hosting it, they can move with more ease.
-
 You: Why did they take your daughter away?
-
 Thief: I deserted this cult not long ago... 
 I just could not stand the atrocities being committed, so I left. They took my dear daughter as a consequence. 
 They told me that as long as I kept a lot of cash flowing, they would keep my daughter alive.
-
 You: So, you began stealing correct? Is that why you broke into my house?
-
 Thief: Right and once again I apologize. Now, if you excuse me I have to look for my daughter.
-
 You: Lars and I will help you! What is your name?
-
-Thief: My name is Will von Astrea and I know who you are.”<<endl;
-You: You do, Mr. Astrea?”<<end;
-
+Thief: My name is Will von Astrea and I know who you are.
+You: You do, Mr. Astrea?
 Mr. Astrea: Yes, but that is a conversation for later. Let's move, more will show.
 
 You, Lars, and Will von Astrea begin the search within the house. 
@@ -189,36 +178,27 @@ Throughout this walk, you began to think about your encounter with the thief.
 It became evident to you that he was no ordinary thief. He was stealing out of desperation. 
 It was clear that he must have some serious problems, but it does not interest you. Instead, you decided to take a walk for some fresh air.
 *
-You turn down their invitation in an abrupt manner. You start to head towards the door where you last saw the thief. You know that you will need to be ready for whatever goes down after you go through that door. Once you go through the door, you start to look for the thief. He is nowhere to be seen. After a couple of minutes, you are surprised by two hooded figures. One of them says that the cursed one has been found while pointing at you. As you are unable to understand, you get ready to fight for your life. The thief appears from the shadows and strikes one of the hooded figures. You quickly strike the other hooded figure during the moment he turns his back on you. Both hooded figures are now unconsciously laying on the floor. You take this time to question the thief.
+You turn down their invitation in an abrupt manner. You start to head towards the door where you last saw the thief. You know that you will need to be ready 
+for whatever goes down after you go through that door. Once you go through the door, you start to look for the thief. He is nowhere to be seen. After a couple of minutes, you are surprised 
+by two hooded figures. One of them says that the cursed one has been found while pointing at you. As you are unable to understand, you get ready to fight for your life. The thief appears 
+from the shadows and strikes one of the hooded figures. You quickly strike the other hooded figure during the moment he turns his back on you. Both hooded figures are now unconsciously 
+laying on the floor. You take this time to question the thief.
 
 You: Why are you here thief?
-
 Thief: We meet again. I cannot believe our paths have crossed a second time out of mere coincidence. I am looking for something that is precious to me beyond anything else.
-
 You: That still means you are here to steal away such thing, right?
-
 Thief: No, you are mistaking. I am here for my daughter. I came to rescue her from the clutches of this forsaken cult.
-
 You: Your daughter? Then these two hooded figures are cult members?
-
 Thief: Yes, this party is hosted by them. By hosting it, they can move with more ease.
-
 You: Why did they take your daughter away?
-
 Thief: I deserted this cult not long ago...
 I just could not stand the atrocities being committed, so I left. They took my dear daughter as a consequence. 
 They told me that as long as I kept a lot of cash flowing in they would keep my daughter alive.
-
 You: So, you began stealing correct? Is that why you broke into my house?
-
 Thief: Right and once again I apologize. Now if you excuse me, I have to look for my daughter.
-
 You: I will help you! What is your name?
-
 Thief: My name is Will von Astrea and I know who you are.
-
 You: You do, Mr. Astrea?
-
 Mr. Astrea: Yes, but that is a conversation for later. Let's move, more will show.
 
 You, Lars, and Will von Astrea begin the search within the house. 
@@ -243,33 +223,20 @@ The thief appears from the shadows and strikes one of the hooded figures down.
 You use this chance to strike down the other hooded figure. With both threats neutralized, you use this opportunity to ask the thief.
 
 You: Why are you here, thief?
-
 Thief: We meet again. I cannot believe our paths have crossed a second time out of mere coincidence. I am here looking for something that is precious to me beyond anything else.
-
 You: That still means you are here to steal away such thing, right?
-
 Thief: No, you are mistaking. I am here for my daughter. I came to rescue her from the clutches of this forsaken cult.
-
 You: Your daughter? Then these two hooded figures are cult members?
-
 Thief: Yes, this party is hosted by them. By hosting it, they can move with more ease.
-
 You: Why did they take your daughter away?
-
 Thief: I deserted this cult not long ago.
 I just could not stand the atrocities being committed, so I left. They took my dear daughter as a consequence. 
 They told me that as long as I kept a lot of cash flowing in they would keep my daughter alive...
-
 You: So, you began stealing correct? Is that why you broke into my house?
-
 Thief: Right and once again I apologize. Now if you excuse me, I have to look for my daughter.
-
 You: I will help you! What is your name?
-
 Thief: My name is Will von Astrea and I know who you are...
-
 You: You do, Mr. Astrea?
-
 Mr. Astrea: Yes, but that is a conversation for later. Let's move, more will show.
 
 You, Lars, and Will von Astrea begin the search within the house. 
