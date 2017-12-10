@@ -126,7 +126,7 @@ Once they made it outside, you recommend that the next destination should be you
 *
 The small group goes wild with excitement. 
 After ten minutes, you see two hooded figures go through the same door. 
-Maybe the thief’s luck was about to run out. That thought quickly left your mind as your attention was directed to a toast being proposed. You could either:
+Maybe the thief's luck was about to run out. That thought quickly left your mind as your attention was directed to a toast being proposed. You could either:
 *
 The toast is splendid. You and Lars exchange stories with the small group until you found yourself in darkness. What just happened you ask yourself?
 *
@@ -139,30 +139,21 @@ You use this chance to strike down the other hooded figure.
 With both threats neutralized, you use this opportunity to ask the thief.
 
 You: Why did they take your daughter away?
-
 Thief: I deserted this cult not long ago... 
-
 I just could not stand the atrocities being committed, so I left. They took my dear daughter as a consequence. 
-
 They told me that as long as I kept a lot of cash flowing, they would keep my daughter alive.
-
 You: Your daughter? Are the two hooded figures part of the cult?
-
 Thief: Yes, this party is hosted by them. By hosting it, they can move with more ease.
-
 You: Why did they take your daughter away? So, you began stealing correct? Is that why you broke into my house?
-
 Thief: Right and once again I apologize. Now, if you excuse me I have to look for my daughter.
-
 You: Lars and I will help you! What is your name?
-
 Thief: My name is Will von Astrea and I know who you are.
-
 You: You do, Mr. Astrea?
-
 Mr. Astrea: Yes, but that is a conversation for later. Let's move, more will show.
 
-You, Lars, and Will von Astrea begin the search within the house. Eventually, they find a small girl tied up. Mr. Astrea hurries and unties her. He has finally found his daughter. As he checks up on her, you can hear people getting closer. With nowhere to run, you begin to lose hope. Mr. Astrea shows you and Lars through a secret passage. They successfully escaped. Once they made it outside, you recommend that the next destination should be your house. Lars and Mr. Astrea agree.
+You, Lars, and Will von Astrea begin the search within the house. Eventually, they find a small girl tied up. Mr. Astrea hurries and unties her. He has finally found his daughter. 
+As he checks up on her, you can hear people getting closer. With nowhere to run, you begin to lose hope. Mr. Astrea shows you and Lars through a secret passage. They successfully escaped. 
+Once they made it outside, you recommend that the next destination should be your house. Lars and Mr. Astrea agree.
 *
 You feel as if you will only survive from fighting. 
 You grab two knives from the knife set and hold one tightly in each arm. 
