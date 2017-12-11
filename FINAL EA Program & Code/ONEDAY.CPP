@@ -453,8 +453,7 @@ void bestEnding(string playerName, int choice, string introNarrative[], string c
         cout << endl << narrative[11] << endl;
         //ending
         cout << "You all reach your house safely. Once inside you all take a sit and Mr. Astrea begins to talk." << endl;
-        cout << "Thank you from the bottom of my heart young " << playerName << ". " << endl;
-        cout << endingNarrative[1];
+        cout << endingNarrative[0];
         //create method to exit program now*
         break;
     }
@@ -520,8 +519,6 @@ void worstEnding(string playerName, int choice, string introNarrative[], string 
         cout << endl << narrative[14] << endl;
         //ending
         cout << "You all reach your house safely. Once inside you all take a sit and Mr. Astrea begins to talk." << endl;
-        cout << "Thank you from the bottom of my heart. " << endl;
-        cout << endingNarrative[2];
         //create method to exit program now*
         break;
     }
@@ -574,8 +571,7 @@ void worstEnding(string playerName, int choice, string introNarrative[], string 
     {
         cout << endl << narrative[17] << endl;
         cout << "You all reach your house safely. Once inside you all take a sit and Mr. Astrea begins to talk." << endl;
-        cout << "Thank you from the bottom of my heart young " << playerName << endl;
-        cout << endingNarrative[3];
+        cout << endingNarrative[0];
         break;
     }
     }
