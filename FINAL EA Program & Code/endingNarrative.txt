@@ -1,4 +1,4 @@
-﻿You: Please raise your head Mr. Astrea. We were just doing the right thing.
+You: Please raise your head, Mr. Astrea. We were just doing the right thing.
 Mr. Astrea: I will make sure to repay you both the next time we cross paths you have my word. 
 Well, I must get my daughter to safety. I cannot stay for long or they will find me.
 You: Take care of yourself and your daughter, Mr. Astrea!
@@ -17,9 +17,9 @@ You make your way to bed and collapse wondering what the next day has in store f
 
 *
 With help from you and your friend, I was able to rescue my dear daughter. 
-Words can’t express my gratitude.
+Words can not express my gratitude.
 
-You: Please raise your head Mr. Astrea. We were just doing the right thing.
+You: Please raise your head, Mr. Astrea. We were just doing the right thing.
 Mr. Astrea: I will make sure to repay you both the next time we cross paths you have my word. 
 Well, I must get my daughter to safety. I cannot stay for long or they will find me.
 You: Take care of yourself and your daughter, Mr. Astrea!
@@ -38,9 +38,9 @@ You make your way to bed and collapse wondering what the next day has in store f
 
 *
 With help from you and your friend, I was able to rescue my dear daughter. 
-Words can’t express my gratitude.
+Words can not express my gratitude.
 
-You: Please raise your head Mr. Astrea. We were just doing the right thing.
+You: Please raise your head, Mr. Astrea. We were just doing the right thing.
 Mr. Astrea: I will make sure to repay you both the next time we cross paths you have my word. 
 Well, I must get my daughter to safety. I cannot stay for long or they will find me.
 You: Take care of yourself and your daughter, Mr. Astrea!
@@ -59,9 +59,9 @@ You make your way to bed and collapse wondering what the next day has in store f
 
 *
 With help from you and your friend, I was able to rescue my dear daughter. 
-Words can’t express my gratitude.
+Words can not express my gratitude.
 
-You: Please raise your head Mr. Astrea. We were just doing the right thing.
+You: Please raise your head, Mr. Astrea. We were just doing the right thing.
 Mr. Astrea: I will make sure to repay you both the next time we cross paths you have my word. 
 Well, I must get my daughter to safety. I cannot stay for long or they will find me.
 You: Take care of yourself and your daughter, Mr. Astrea!
