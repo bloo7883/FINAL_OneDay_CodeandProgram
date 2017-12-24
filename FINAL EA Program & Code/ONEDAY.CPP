@@ -413,8 +413,8 @@ void bestEnding(string playerName, int choice, string introNarrative[], string c
     case 1: //choice [8] //go after the thief
     {
         cout << "You all reach your house safely. Once inside you all take a sit and Mr. Astrea begins to talk." << endl;
-        cout << "Thank you from the bottom of my heart young " << playerName << ". With your help and the help of your friend I was able to rescue my dear daughter." << endl;
-        cout << "Words can't express the extent of my gratitude." << endl;
+        cout << "Thank you from the bottom of my heart, young " << playerName << ". With your help and the help of your friend I was able to rescue my dear daughter." << endl;
+        cout << "Words can not express the extent of my gratitude." << endl;
         cout << endl << narrative[8] << endl;
         //ending
         cout << endingNarrative[0];
@@ -425,8 +425,8 @@ void bestEnding(string playerName, int choice, string introNarrative[], string c
     {
         cout << "You turn down their invitation in an abrupt manner and start heading towards the door where you last saw the thief.\nLars follows behind and poses the question..." << endl;
         cout << "Lars: What is the matter?" << endl;
-        cout << "You: I  saw the thief Lars. He went through that door upfront after getting it to open." << endl;
-        cout << "That is impossible" << playerName << ". " << "Why would the same thief show up at party?" << endl;
+        cout << "You: I saw the thief Lars. He went through that door upfront after getting it to open." << endl;
+        cout << "That is impossible " << playerName << ". " << "Why would the same thief show up at party?" << endl;
         cout << endl << narrative[9] << endl;
         break;
     }
@@ -480,11 +480,10 @@ void bestEnding(string playerName, int choice, string introNarrative[], string c
     {
         cout << endl << narrative[11] << endl;
         //ending
-        cout << "You all reach your house safely. Once inside you all take a sit and Mr. Astrea begins to talk." << endl;
-        cout << "Thank you from the bottom of my heart young " << playerName << ". " << endl;
+        cout << "You all reach your house safely. Once everyone is inside, you all take a sit and Mr. Astrea begins to talk." << endl;
+        cout << "Thank you from the bottom of my heart young, " << playerName << "." << endl;
         cout << endingNarrative[1];
         finish(hConsole, c, n);
-        exit(0);
     }
     }
 }
@@ -551,11 +550,9 @@ void worstEnding(string playerName, int choice, string introNarrative[], string 
     {
         cout << endl << narrative[14] << endl;
         //ending
-        cout << "You all reach your house safely. Once inside you all take a sit and Mr. Astrea begins to talk." << endl;
+        cout << "You all reach your house safely. Once everyone is inside, you all take a sit and Mr. Astrea begins to talk." << endl;
         cout << "Thank you from the bottom of my heart. " << endl;
         cout << endingNarrative[2];
-        finish(hConsole, c, n);   //end program
-        exit(0);
     }
     case 2: //choice [15] //ignore thief
     {
@@ -609,11 +606,10 @@ void worstEnding(string playerName, int choice, string introNarrative[], string 
     case 2: //choice [17] //ignore thief
     {
         cout << endl << narrative[17] << endl;
-        cout << "You all reach your house safely. Once inside you all take a sit and Mr. Astrea begins to talk." << endl;
-        cout << "Thank you from the bottom of my heart young " << playerName << endl;
+        cout << "You all reach your house safely. Once everyone is inside, you all take a sit and Mr. Astrea begins to talk." << endl;
+        cout << "Thank you from the bottom of my heart, young " << playerName << endl;
         cout << endingNarrative[3];
         finish(hConsole, c, n);
-        exit(0);
     }
     }
 }
